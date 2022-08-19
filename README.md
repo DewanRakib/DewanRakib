@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DewanRakib
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning HTML, CSS
+- 👀 I’m interested in HTML, CSS, JS, WordPress, Shopify, WooCommerce
+- 🌱 I’m currently learning Advanced CSS, WordPress Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
